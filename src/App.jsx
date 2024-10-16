@@ -24,7 +24,11 @@ function App() {
           -
         </button>
       </div>
+     <h2 className='heading2'>
+       "ЭТО КАУНУТЕР
+     </h2>
     </div>
+
   );
 }
 
